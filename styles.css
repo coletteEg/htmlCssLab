@@ -1,0 +1,29 @@
+h1 {
+    color:white;
+    background-color: #1D2F6F;
+    font-size: 2cm;
+    margin-left: 300px;
+}
+h4 {
+    color:white;
+    font-size: 15px;
+    margin-left: 200px;
+}
+header {
+background-color: #1D2F6F;
+}
+body {
+    background-color: #B4D4EE;
+}
+a > div > img {
+    width: 350px;
+    height:200px;
+    box-shadow: 5px 5px 0 black;
+}
+p {
+    font-family:'Oswald', sans-serif;
+    font-size: 15px; 
+   margin-left: 50px;
+   margin-top: 5px;
+
+}
